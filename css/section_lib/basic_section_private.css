@@ -1,0 +1,73 @@
+#sectionWrapper{position:relative;overflow:hidden;margin-bottom:10px;padding:0 8px 0 8px;clear:both;}
+#sectionWrapper .layoutC{display: none;padding-top:10px}
+#sectionWrapper .layoutAB{position:relative;}
+#sectionWrapper .layoutAB .dualLine{width:600px;margin-left:10px}
+#sectionWrapper .layoutAB .viewBox{width:600px;margin-left:10px;float:left;padding-top:10px;border-top:1px solid #ddd}
+#sectionWrapper .layoutAB .viewMore{float:left}
+#sectionWrapper .layoutAB .box{float:right;}
+#sectionWrapper .layoutAB .box span{float:left}
+#sectionWrapper .layoutAB .photo600{margin-top:10px}
+#sectionWrapper .columnAplusB{float:left;padding:0 10px 0 10px;margin-bottom:10px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+#sectionWrapper .columnAplusB .last{border-bottom:none}
+#sectionWrapper .columnAplusB .regularSummaryList > li{padding-top:10px;overflow:hidden;border-bottom:1px solid #ddd}
+#sectionWrapper .columnAplusB .regularSummaryList .last{border-bottom:none}
+#sectionWrapper .followtop li.first{padding-top:8px;border-top:1px solid #ddd}
+#sectionWrapper .nomargin{margin:0}
+#sectionWrapper .columnB{float:left;width:220px;padding:0 10px 0 10px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+#sectionWrapper .columnB .last{border-bottom:none}
+#sectionWrapper .columnB .regularSummary{border-bottom:none}
+#sectionWrapper .columnB .regularSummaryHeadline{font-size:13px}
+#sectionWrapper .columnB .regularColumn{padding-top:10px;background:url("../../img/duoline.png") repeat-x 0 top;}
+#sectionWrapper .columnB .regularColumn ul{width:100%;padding:0;list-style:none}
+#sectionWrapper .columnB .regularColumnList li.first{border-bottom:1px solid #ddd;margin-bottom:15px}
+#sectionWrapper .columnB .regularColumnList .columnist_photo{width:75px;margin:0 auto;display:block}
+#sectionWrapper .vertical-line{display: none;border-right:1px solid #ddd;height:100%;position:absolute;top:10px;left:628px}
+#sectionWrapper #moth{width:600px;margin-left:10px;margin-bottom:10px;}
+#sectionWrapper #moth .mothBox{border-top:1px solid #ddd;background:url("../../img/duoline.png") repeat-x 0 bottom;padding-bottom:3px}
+#sectionWrapper #moth .storyWindow{width:578px;}
+#sectionWrapper #moth .storyWindow img{width:180px;height:180px}
+#sectionWrapper #sectionLeadPackage{padding:10px;width:620px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+#sectionWrapper #sectionLeadPackage .photoCredit{margin-top:-5px}
+#sectionWrapper #sectionLeadPackage .regularSummary{border-bottom:none}
+#sectionWrapper #sectionLeadPackage .summary{background:url("../../img/duoline.png") repeat-x 0 bottom;padding-bottom:20px}
+#sectionWrapper #sectionLeadPackage:after{display:block;visibility:hidden;height:0;content:'\0020';clear:both}
+#sectionWrapper #sectionLeadPackage .sectionLeadHeader{font-size:24px;line-height:32px}
+#sectionWrapper #sectionLeadPackage #sectionLeadStory{margin-bottom:10px;background:#f00;width:100%;}
+#sectionWrapper #sectionLeadPackage #sectionLeadStory .sectionLeadHeader{font-size:24px;line-height:32px}
+#sectionWrapper #sectionLeadPackage #sectionLeadStory:after{visibility:hidden;display:block;content:'\0020';clear:left}
+#sectionWrapper #sectionLeadPackage #sectionLeadStory .photo337{float:right;}
+#sectionWrapper #sectionLeadPackage #sectionLeadStory .photo337:after{visibility:hidden;display:block;content:'\0020';clear:left}
+#sectionWrapper .sectionAutoList .autoList{list-style:none;list-style-type:none;margin:0;padding:0;}
+#sectionWrapper .sectionAutoList .autoList .autoListStory{position:relative;border-bottom:1px solid #e2e2e2;margin-bottom:8px;padding-bottom:8px; min-height: 100px;}
+#sectionWrapper .sectionAutoList .autoList .autoListStory .thumbnail{float:right;padding-left:5px}
+#sectionWrapper .sectionAutoList .autoList .autoListStory.first { padding-top: 10px; }
+#sectionWrapper .sectionAutoList .autoList .autoListStory.last{border-bottom:none;margin-bottom:0}
+#sectionWrapper #sectionSpotlight{margin-top:0;}
+#sectionWrapper #sectionSpotlight .last{border:none}
+.basic_topic_page#page{border:none;}
+.basic_topic_page#page .sectionAutoList .autoList .autoListStory{float:left;margin:10px 0;}
+.basic_topic_page#page .sectionAutoList .autoList .autoListStory .photoWrapper{width:190px;float:right;margin-left:15px}
+.basic_topic_page#page .sectionAutoList .autoList .autoListStory .photoWrapper img {width: 190px !important;height: auto;}
+.basic_topic_page#page .sectionAutoList .autoList .autoListStory .regularSummaryHeadline{font-size:16px}
+.basic_topic_page#page .sectionAutoList .autoList .autoListStory .summary{font-size:14px}
+.basic_topic_page#page .date{padding-left:6px;border-left:1px solid #ddd;margin-left:3px;height:10px;line-height:10px;display:inline-block}
+.basic_topic_page .top.page_info{width:960px;border-bottom:3px solid #ddd;height:85px;margin:0 auto;}
+.basic_topic_page .top.page_info .top_left{width:100px;float:left;}
+.basic_topic_page .top.page_info .top_left img{margin-top:2px}
+.basic_topic_page .top.page_info .top_right{line-height:20px;width:600px;float:right;padding:20px 0}
+.basic_topic_page #sectionWrapper .layoutC{float:right}
+.basic_topic_page #sectionWrapper .vertical-line{border:none}
+.slideshow a{position:relative;display:block;clear:both}
+.slideshow .slideImage{width:110px;height:40px;position:absolute;bottom:20px;left:16px;background:url("../../img/slideshow_icon_span.png")}
+.slideshow:hover .slideImage{background-position:0 -40px}
+.basic_topic_page .columnC > div{border-top:1px solid #e2e2e2;padding-top:10px}
+.basic_topic_page .columnC > div.first{border-top:none;padding-top:0}
+.basic_topic_page .columnAplusB .basic-list{overflow:hidden}
+.basic_topic_page .columnAplusB div.last{padding-top:10px;border-top:1px solid #e2e2e2}
+
+#sectionWrapper .pagination{padding-top:20px;padding-left:70px;}
+#sectionWrapper .pagination >span{float:left}
+#sectionWrapper .pagination ul{padding-top:6px;width:510px;float:left;}
+#sectionWrapper .pagination ul li,#sectionWrapper .pagination ul li.current{font-size:12px;height:10px;line-height:10px;border:none;border-right:thin solid #d7d7d7;background:none;}
+#sectionWrapper .pagination ul li a,#sectionWrapper .pagination ul li.current a,#sectionWrapper .pagination ul li span,#sectionWrapper .pagination ul li.current span{line-height:10px;font-size:12px}
+#sectionWrapper .pagination ul li.next{border:none}

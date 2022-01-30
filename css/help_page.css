@@ -1,0 +1,84 @@
+.layoutA{width:auto;padding-bottom:50px;}
+.layoutA ul{width:110px;list-style:none;padding:0;margin:0;float:left;}
+.layoutA ul li{height:30px;line-height:30px;width:100%;font-weight:bolder;border-bottom:1px solid #ddd}
+.layoutBC{width:525px;float:left;padding:18px 10px;padding-bottom:50px;}
+.layoutBC h2{font-size:16px;line-height:24px}
+.layoutBC .brother-sites-list{overflow:hidden;list-style:none;padding:0;border-top:1px solid #ddd;margin:0;margin-top:19px;}
+.layoutBC .brother-sites-list li{list-style:none;width:100px;text-align:center;float:left;padding:0;margin:8px 0;list-style-type:none}
+.layoutBC .centerTitle{width:100%;text-align:center}
+.layoutBC .centerBox{width:100%;text-align:center;margin-top:30px}
+.localeTool{padding:0 10px;color:#808080;}
+.localeTool a{font-size:12px;color:#333;}
+.localeTool a.on{color:#808080}
+
+.download_app {
+    clear: both;
+    text-align: center;
+    padding: 0;
+}
+.download_app a {
+    display: inline-block;
+    width: 160px;
+    height: 48px;
+    margin: 5px 2px 15px 5px;
+    vertical-align: top;
+}
+.download_app a.apple_store_icon {
+    background: url('../img/app-store-badge.png') 0 0 no-repeat;
+    background-size: 100%;
+}
+.download_app a.google_play_icon {
+    background: url('../img/google-play-badge.png') 0 0 no-repeat;
+    background-size: 100%;
+}
+.download_app a.download_apk {
+    background: url('../img/download-android-app.png') 0 0 no-repeat;
+    background-size: 100%;
+
+}
+.download_app p {
+    font-weight: bold;
+    font-size: 14px;
+    padding-top: 10px;
+    margin-bottom: 5px !important;
+}
+.download_app p span {
+    font-size: 14px;
+}
+
+.download_app p small {
+    font-size: 12px;
+    font-weight: normal;
+    margin: 0;
+    color: #999;
+}
+.visually_hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+.download_app .qr_code{
+    height: 48px;
+    width: 48px;
+    display: inline-block;
+    margin: 5px 10px 15px 0px;
+}
+.download_app .qr_code.app_store{
+    background: url('../img/qr-appstore.png');
+    background-size: 100%;
+}
+.download_app .qr_code.google_play {
+    background: url('../img/qr-googleplay.png');
+    background-size: 100%;
+}
+.download_app .qr_code.download_apk {
+    background: url('../img/qr-apk.png');
+    background-size: 100%;
+}
+
+.layoutBC p { margin: 0 auto;}
